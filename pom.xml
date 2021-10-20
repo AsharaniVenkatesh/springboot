@@ -55,6 +55,11 @@
 		    <version>9.0.53</version>
 		</dependency>
 		
+		<dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>jstl</artifactId>
+       </dependency>
+		
 	</dependencies>
 
 	<build>
